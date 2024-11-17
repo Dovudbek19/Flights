@@ -1,0 +1,160 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.first-title {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: 600px;
+    color: #5E6282;
+}
+
+.second-title {
+    text-align: center;
+    margin-block: 0;
+    display: block;
+    font-size: 50px;
+    font-weight: 700px;
+    color: #14183E;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.card {
+    width: 267px;
+    height: 314px;
+    margin-left: 70px;
+    margin-top: 74px;
+    list-style-type: none;
+    border: 1px solid #E1E6E9;
+    border-radius: 36px;
+    box-shadow: 10px 20px 20px #0000001F;
+}
+
+
+.card-image-first {
+    margin-left: 95px;
+    margin-top: 60px;
+    margin-bottom: 46px;
+}
+
+.card-image-second {
+    margin-left: 48px;
+    margin-top: 21px;
+}
+
+.card-image-third {
+    margin-left: 83px;
+    margin-top: 48px;
+    margin-bottom: 46px;
+}
+
+.card-image-forth {
+    margin-left: 95px;
+    margin-top: 56px;
+    margin-bottom: 41px;
+}
+
+.card-title-one {
+    margin-left: 73px;
+    color: #1E1D4C;
+    font-size: 20px;
+    font-weight: 600px;
+}
+
+.card-information {
+    text-align: center;
+    color: #5E6282;
+    font-size: 16px;
+    font-weight: 400px;
+}
+
+.title-two {
+    margin-top: 149px;
+}
+
+.third-title {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: 600px;
+    color: #5E6282;
+}
+
+.forth-title {
+    text-align: center;
+    margin-block: 0;
+    display: block;
+    font-size: 50px;
+    font-weight: 700px;
+    color: #14183E;
+}
+
+.first-card {
+    width: 314px;
+    height: 457px;
+    margin-left: 120px;
+    list-style-type: none;
+    background-image: url("../images/Rectangle\ 1.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.second-card {
+    width: 314px;
+    height: 457px;
+    margin-left: 120px;
+    list-style-type: none;
+    background-image: url("../images/Rectangle\ 2.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.third-card {
+    width: 314px;
+    height: 457px;
+    margin-left: 120px;
+    list-style-type: none;
+    background-image: url("../images/Rectangle\ 3.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.second-wrapper {
+    display: flex;
+}
+
+.box {
+    display: flex;
+    margin-inline: 9px;
+    padding-inline: 15px;
+    background-color: #ffffff;
+    justify-content: space-between;
+}
+
+.box-wrapper {
+    width: 300px;
+    height: 130px;
+    margin-inline: 9px;
+    padding-inline: 15px;
+    background-color: #ffffff;
+}
+
+i {
+    margin-left: 20px;
+}
+
+.omg {
+    display: inline;
+    margin-top: 30px;
+}
